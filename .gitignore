@@ -1,4 +1,6 @@
 
+covid/dataset/
+covid/input
 .DS_Store
 ## Do not check in data folder
 data/
